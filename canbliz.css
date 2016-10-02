@@ -1,0 +1,30 @@
+body{
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+margin-top:auto;
+margin-bottom:auto;
+background-color:#E6CCCC;
+}
+#allcontent{
+background-color:#E6CCCC;
+width: 500px;
+margin-left:auto;
+margin-right:auto;
+}
+#nav{
+float:left;
+width: 300px;
+position:relative;
+}
+#footer{
+clear:left;
+}
+#feedback{
+position:relative;}
+
+#cool,tr,td,th{
+border-color: black;
+border-width: 1px;
+border-style: solid;
+}
